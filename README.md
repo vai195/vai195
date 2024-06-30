@@ -7,7 +7,9 @@ Hey there! I'm Vaibhav an aspirsing software engineer currently completeing my b
 [Website](https://vaibhavsonnakul.vercel.app/)
 
 # Currently Learning:
-Full Stack Development with Next.js and Golang, Generative AI/Machine Learning with Python, Docker
+- ⌨️ Full Stack Development with Next.js and Golang
+- 🤖 Generative AI/Machine Learning with Python
+- 🐋 Containerization and Deployment with Docker
 
 Check out my [coding portfolio!](https://vaibhavsonnakul.vercel.app/)
 
